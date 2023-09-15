@@ -1,2 +1,1 @@
-This is a Classic Snake Game which is made using Turtle Library.
-Currently Not uploaded full project
+This is a Classic nostalgic Snake game we all played in our childhood,made using turtle library 
